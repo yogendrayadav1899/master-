@@ -1,0 +1,39 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+
+}
+.main
+{
+    background-image: url(https://imgs.search.brave.com/Z_jljXwk-1fHboFheTPCb3r1SWKeswexug1vMisZ_SQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/cGFjaWZpY2NvbGxl/Z2UuZWR1L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA1L0Zy/YW1lLTM2MC0xMDI0/eDY4Mi53ZWJw);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.logo
+{
+    margin: 10px;
+    padding: 10px;
+    float: left;
+    color: lightseagreen;
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20;
+
+}
+
+.menu 
+{
+    margin: 10px;
+    padding: 10px;
+    margin-right: 8%;
+    text-decoration: none;
+    float: right;
+    color:black;
+    background-color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20;
+  
+}
